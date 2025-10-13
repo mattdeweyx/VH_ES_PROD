@@ -1,0 +1,11 @@
+{
+ "main.pyd": {
+ "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.033754/main.pyd",
+ "sha256": "9f45a0d11136c9a67f732d56fabe04103f233b07de5b3723a9a99bc368ce5b84"
+ },
+ "main.cp311-win_amd64.pyd": {
+ "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.033754/main.cp311-win_amd64.pyd",
+ "sha256": "415e617bbce4a250dc545144f1d0aefd3abffed295548f57bda4c97c4b6cb1d3"
+ }
+
+}
