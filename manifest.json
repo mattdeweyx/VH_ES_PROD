@@ -8,7 +8,7 @@
     "sha256": "1868df32b0fc5b2180f250940423b92179752c174b9ef68b33a44bd061016ad2"
   },
   "server_module.pyd": {
-    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v111/server_module.12.pyd",
+    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v111/server_module.pyd",
     "sha256": "0C345D20D22975DC722684EEC6A774302EAC99BF2948085F67D5B67D4DCC962F"
   }
 }
