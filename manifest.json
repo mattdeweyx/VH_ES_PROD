@@ -1,14 +1,10 @@
 {
-  "launcher.exe": {
-    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.041740/launcher.exe",
-    "sha256": "7e4015a7088933e2659285ea31149c4e4b1b1fd91ffcf2ba8e3a6232146faf89"
-  },
-  "XWAD.cp311-win_amd64.pyd": {
-    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.042145/XWAD.cp311-win_amd64.pyd",
-    "sha256": "1868df32b0fc5b2180f250940423b92179752c174b9ef68b33a44bd061016ad2"
-  },
-  "server_module.pyd": {
-    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v111/server_module.pyd",
+  "xVH_SM499.pyd": {
+    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v113/xVH_SM499.pyd",
     "sha256": "57dd38bc3558b06ffa219183acd4bcb9bb83e180dc70a9a6b9d7385b69c5096b"
+  },
+  "license_app.pyd": {
+    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v112/license_app.pyd",
+    "sha256": "sha256:4332c6bbbc2ebce27080c77917bda0330764bd7ccb467f87587bdb5b5977e78a"
   }
 }
