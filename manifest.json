@@ -1,15 +1,7 @@
 {
- "XWAD.cp311-win_amd64.pyd": {
- "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.034246/XWAD.cp311-win_amd64.pyd",
- "sha256": "165b4480eff1f82b7b69f3365b1041937933dc7bd771eb4f3010923d1b37d4b3"
- },
- "main.pyd": {
- "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.034246/main.pyd",
- "sha256": "9f45a0d11136c9a67f732d56fabe04103f233b07de5b3723a9a99bc368ce5b84"
- },
- "main.cp311-win_amd64.pyd": {
- "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.034246/main.cp311-win_amd64.pyd",
- "sha256": "415e617bbce4a250dc545144f1d0aefd3abffed295548f57bda4c97c4b6cb1d3"
+ "launcher.exe": {
+ "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.034944/launcher.exe",
+ "sha256": "0c730262409cdce3b6956b228976cf064c46c432fed1baf33dcf640b9c73e1be"
  }
 
 }
