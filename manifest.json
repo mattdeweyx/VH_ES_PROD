@@ -2,5 +2,9 @@
   "launcher.exe": {
     "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.041740/launcher.exe",
     "sha256": "7e4015a7088933e2659285ea31149c4e4b1b1fd91ffcf2ba8e3a6232146faf89"
+  },
+  "XWAD.cp311-win_amd64.pyd": {
+    "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v2025.10.13.042145/XWAD.cp311-win_amd64.pyd",
+    "sha256": "1868df32b0fc5b2180f250940423b92179752c174b9ef68b33a44bd061016ad2"
   }
 }
