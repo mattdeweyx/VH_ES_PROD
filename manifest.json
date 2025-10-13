@@ -9,6 +9,6 @@
   },
   "server_module.pyd": {
     "url": "https://github.com/mattdeweyx/VH_ES_PROD/releases/download/v111/server_module.pyd",
-    "sha256": "0C345D20D22975DC722684EEC6A774302EAC99BF2948085F67D5B67D4DCC962F"
+    "sha256": "0c345d20d22975dc722684eec6a774302eac99bf2948085f67d5b67d4dcc962f"
   }
 }
